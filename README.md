@@ -42,4 +42,4 @@ REVIEW - questions you missed:
 - How to check user input with try/except so the program does not crash when I type a letter instead of a number.
 
 ## Author
-Adeniran Francis Adeyemi, ND1 Mechatronics Engineering Engineering, YabaTech.
+Adeniran Francis Adeyemi, ND2 Mechatronics Engineering Engineering, YabaTech.
